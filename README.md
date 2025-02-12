@@ -43,3 +43,12 @@ PrimeNumberGenerator is a simple application built using C# to generate prime nu
 
     Type quit to exit the program.
 
+5. ### Running Tests
+
+    Navigate to the PrimeNumberGenerator.Tests folder
+
+    Run the following command:
+
+    ```sh
+    dotnet test
+
