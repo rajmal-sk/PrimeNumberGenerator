@@ -1,0 +1,14 @@
+/Users/rajmal/Desktop/Jobs/Github Repos/Challenge/PrimeNumberGenerator/bin/Debug/net8.0/PrimeNumberGenerator
+/Users/rajmal/Desktop/Jobs/Github Repos/Challenge/PrimeNumberGenerator/bin/Debug/net8.0/PrimeNumberGenerator.deps.json
+/Users/rajmal/Desktop/Jobs/Github Repos/Challenge/PrimeNumberGenerator/bin/Debug/net8.0/PrimeNumberGenerator.runtimeconfig.json
+/Users/rajmal/Desktop/Jobs/Github Repos/Challenge/PrimeNumberGenerator/bin/Debug/net8.0/PrimeNumberGenerator.dll
+/Users/rajmal/Desktop/Jobs/Github Repos/Challenge/PrimeNumberGenerator/bin/Debug/net8.0/PrimeNumberGenerator.pdb
+/Users/rajmal/Desktop/Jobs/Github Repos/Challenge/PrimeNumberGenerator/obj/Debug/net8.0/PrimeNumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmal/Desktop/Jobs/Github Repos/Challenge/PrimeNumberGenerator/obj/Debug/net8.0/PrimeNumberGenerator.AssemblyInfoInputs.cache
+/Users/rajmal/Desktop/Jobs/Github Repos/Challenge/PrimeNumberGenerator/obj/Debug/net8.0/PrimeNumberGenerator.AssemblyInfo.cs
+/Users/rajmal/Desktop/Jobs/Github Repos/Challenge/PrimeNumberGenerator/obj/Debug/net8.0/PrimeNumberGenerator.csproj.CoreCompileInputs.cache
+/Users/rajmal/Desktop/Jobs/Github Repos/Challenge/PrimeNumberGenerator/obj/Debug/net8.0/PrimeNumberGenerator.dll
+/Users/rajmal/Desktop/Jobs/Github Repos/Challenge/PrimeNumberGenerator/obj/Debug/net8.0/refint/PrimeNumberGenerator.dll
+/Users/rajmal/Desktop/Jobs/Github Repos/Challenge/PrimeNumberGenerator/obj/Debug/net8.0/PrimeNumberGenerator.pdb
+/Users/rajmal/Desktop/Jobs/Github Repos/Challenge/PrimeNumberGenerator/obj/Debug/net8.0/PrimeNumberGenerator.genruntimeconfig.cache
+/Users/rajmal/Desktop/Jobs/Github Repos/Challenge/PrimeNumberGenerator/obj/Debug/net8.0/ref/PrimeNumberGenerator.dll
